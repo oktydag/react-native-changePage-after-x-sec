@@ -1,0 +1,3 @@
+rootProject.name = 'Mobakiye'
+
+include ':app'
