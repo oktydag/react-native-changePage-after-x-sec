@@ -18,7 +18,7 @@ const styles = {
     borderBottomWidth: 1,
     padding: 5,
     backgroundColor: '#fff',
-    justifyContent: 'flex-start',  //içine gelen componentler alt alta sıralansın
+    justifyContent: 'flex-start', 
     flexDirection: 'row',
     borderColor: '#ddd',
     position: 'relative'
@@ -26,7 +26,7 @@ const styles = {
   },
   ImageStyle: {
     height: 300,
-    weight:300  // içinde bulunduğun view'in tamamını kapla
+    weight:300  
 
   }
 
