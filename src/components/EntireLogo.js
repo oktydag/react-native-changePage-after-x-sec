@@ -27,7 +27,6 @@ const styles = {
   ImageStyle: {
     height: 300,
     weight:302  
-
   }
 
 };
